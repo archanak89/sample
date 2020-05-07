@@ -1,2 +1,0 @@
-# sample
-My new Repository
